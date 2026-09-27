@@ -6,7 +6,7 @@
 
 <Br>
 
-### Hi, I'm Mushfique Hussain ____________________________ <Br> ___________ A creative developer passionate about design.
+### Hi, I'm Mushfique Hussain __________________________ <Br> _________ A creative developer passionate about design.
 
 <Br>
 
@@ -43,17 +43,17 @@ const admin = {
 ## $ cat progress.log
 
 ```
-  ╭──────────────────────────────────────────╮
-  │  MUSHFIQUE / CURRENT_BUILD           ×   │
-  ├──────────────────────────────────────────┤
-  │                                          │
-  │  DESIGN      ███████████████░░░  80%     │
-  │  FRONTEND    █████████████░░░░░  70%     │
-  │  FULLSTACK   ████████░░░░░░░░░░  40%     │
-  │  JAVA / DSA  ██████████░░░░░░░░  50%     │
-  │                                          │
-  │  > compiling curiosity...                │
-  ╰──────────────────────────────────────────╯
+╭───────────────────────────────────────╮
+│  MUSHFIQUE / CURRENT_BUILD         ×  │
+├───────────────────────────────────────┤
+│                                       │
+│  DESIGN      ███████████████░░░  80%  │
+│  FRONTEND    █████████████░░░░░  70%  │
+│  FULLSTACK   ████████░░░░░░░░░░  40%  │
+│  JAVA / DSA  ██████████░░░░░░░░  50%  │
+│                                       │
+│  > compiling curiosity...             │
+╰───────────────────────────────────────╯
 ```
 
 ## $ tech --used
@@ -79,27 +79,15 @@ const admin = {
 
 ## $ ls --projects
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <img src="./assets/project01.png" width="100%" alt="FitLog Project Preview">
-    </td>
-    <td width="70%" valign="top">
+<p>
+      <img src="./assets/project01banner.png" alt="FitLog Project Preview">
+</p>
 
-# FITLOG
+### FITLOG
 
 *A modern workout discovery & planning app for exploring, saving, and organizing daily workouts.*
 
-<strong>**Stack**</strong><br>
-Next.js · TypeScript · Tailwind CSS · Context API · REST API
-
-<strong>**Focus**</strong><br>
-Workout discovery · Personal planning · Responsive UI
-
 [`Live Project`](https://fitlog-myshphew.vercel.app/)
-</td>
-</tr>
-</table>
 
 ## $ ping --mushfique
 
