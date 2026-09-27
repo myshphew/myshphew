@@ -1,14 +1,24 @@
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Mushfique">
+  <img src="./assets/divider.avif" width="100%" alt="Profile Theme Banner">
 </p>
 
-# Nǐ hǎo,<br>Bonjour,<Br>Hola,<Br>~ a warm greetings from MyshPhew 👋🏻
+# Nǐ hǎo,<br>Bonjour,<br>Hola,<br>~ warm greetings from MyshPhew 👋🏻
 
-<Br>
+<br>
 
-### Hi, I'm Mushfique Hussain __________________________ <Br> _________ A creative developer passionate about design.
+### Hi there, I'm Mushfique Hussain ___________________________ <br> __________________ A creative developer driven by design ____
 
-<Br>
+```
+        ╱|、
+       (˚ˎ 。7
+        |、˜〵
+        じしˍ,)ノ
+```
+<br>
+
+*Between pixels and code, I’m building things that feel right.*
+
+<br>
 
 ## $ whoami
 
@@ -18,7 +28,7 @@ const admin = {
     hostname: "Mushfique Hussain",
     network: "BRAC University",
     location: "Dhaka, Bangladesh",
-    uptime: 3,
+    runtimeYears: 3,
   },
 
   role: {
@@ -40,66 +50,86 @@ const admin = {
 };
 ```
 
+<br>
+
 ## $ cat progress.log
 
-```javascript
-╭───────────────────────────────────────╮
-│  MUSHFIQUE / CURRENT_BUILD         ×  │
-├───────────────────────────────────────┤
-│                                       │
-│  DESIGN      ███████████████░░░  80%  │
-│  FRONTEND    █████████████░░░░░  70%  │
-│  FULLSTACK   ████████░░░░░░░░░░  40%  │
-│  JAVA / DSA  ██████████░░░░░░░░  50%  │
-│                                       │
-│  > compiling curiosity...             │
-╰───────────────────────────────────────╯
+```ini
+╭─────────────────────────────────────────╮
+│  MUSHFIQUE / CURRENT_BUILD           ×  │
+├─────────────────────────────────────────┤
+│                                         │
+│  DESIGN      ████████████████░░░░  80%  │
+│  FRONTEND    ██████████████░░░░░░  70%  │
+│  FULLSTACK   ████████░░░░░░░░░░░░  40%  │
+│  JAVA / DSA  ██████████░░░░░░░░░░  50%  │
+│                                         │
+│  > compiling curiosity...               │
+╰─────────────────────────────────────────╯
 ```
 
-## $ tech --used
+<br>
 
-#### Languages
+## $ ls ./stack
+
+`./languages`
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript&perline=6" />
 </p>
 
-#### Frontend
+`./frontend`
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=6" />
 </p>
 
-<!-- **Backend** -->
-
-<!-- **Databases & Caching** -->
-
-#### Software & Tools
+`./tools`
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,notion,git,github,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,notion&perline=6" />
 </p>
 
-## $ ls --projects
+<br>
 
-<p>
-      <img src="./assets/project01banner.png" alt="FitLog Project Preview">
+## $ explore --projects
+
+#### `BUILD_01 / FITLOG`
+
+<p align="center">
+  <img src="./assets/project01banner.avif" width="100%" alt="FitLog Project Previewr">
 </p>
-
-### FITLOG
 
 *A modern workout discovery & planning app for exploring, saving, and organizing daily workouts.*
 
-[`Live Project`](https://fitlog-myshphew.vercel.app/)
+**Next.js · TypeScript · Tailwind · Context API***
+
+[`$ npm run live`](https://fitlog-myshphew.vercel.app/) · [`$ git clone`](https://github.com/myshphew/FitLog)
+
+<br>
+
+#### `BUILD_02 / ...`
+
+*`project initializing...`*
+
+<br>
 
 ## $ ping --mushfique
 
-[`$ send email`](mailto:mushfique.ndc23@gmail.com) · [`$ open portfolio`](http://mushfique-hussain.me/) · [`$ connect linkedin`](https://www.linkedin.com/in/md-mushfique-hussain/) · [`$ connect instagram`](https://www.instagram.com/its_m.husayn/)
+[`$ mail mushfique`](mailto:mushfique.ndc23@gmail.com)
+ · 
+[`$ cd portfolio`](http://mushfique-hussain.me/)
+ · 
+[`$ ssh linkedin`](https://www.linkedin.com/in/md-mushfique-hussain/)
+ · 
+[`$ ssh instagram`](https://www.instagram.com/its_m.husayn/)
 
 <br>
 <br>
 
-<p align="left">
+<p align="center">
   <img src="./assets/cta.svg" width="100%" alt="cta">
 </p>
 
 <div align="center">
-© 2026 Mushfique Hussain
+
+###### © 2026 Mushfique Hussain
+
 </div>
