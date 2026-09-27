@@ -27,7 +27,7 @@ const admin = {
   },
 
   activity: {
-    uploading: ["creative websites", "interactive experiences"],
+    uploading: ["creative websites"],
     downloading: ["full-stack", "DSA"],
     pending: ["3D", "web interactions"],
   },
@@ -42,7 +42,7 @@ const admin = {
 
 ## $ cat progress.log
 
-```
+```javascript
 ╭───────────────────────────────────────╮
 │  MUSHFIQUE / CURRENT_BUILD         ×  │
 ├───────────────────────────────────────┤
