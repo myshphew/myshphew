@@ -6,7 +6,7 @@
 
 <br>
 
-### Hi there, I'm Mushfique Hussain ___________________________ <br> __________________ A creative developer driven by design ____
+### Hi there, I'm Mushfique Hussain _______________________________ <br> ______________________ A creative developer driven by design ____
 
 ```
         ╱|、
