@@ -94,12 +94,12 @@ const admin = {
 #### `BUILD_01 / FITLOG`
 
 <p align="center">
-  <img src="./assets/project01banner.avif" width="100%" alt="FitLog Project Previewr">
+  <img src="./assets/project01banner.avif" width="100%" alt="FitLog Project Preview">
 </p>
 
 *A modern workout discovery & planning app for exploring, saving, and organizing daily workouts.*
 
-**Next.js · TypeScript · Tailwind · Context API***
+**Next.js · TypeScript · Tailwind · Context API**
 
 [`$ npm run live`](https://fitlog-myshphew.vercel.app/) · [`$ git clone`](https://github.com/myshphew/FitLog)
 
