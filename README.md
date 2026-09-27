@@ -1,52 +1,117 @@
-<!-- Section 1 --> 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Mushfique">
+</p>
+
+# Nǐ hǎo,<br>Bonjour,<Br>Hola,<Br>~ a warm greetings from MyshPhew 👋🏻
+
+<Br>
+
+### Hi, I'm Mushfique Hussain ____________________________ <Br> ___________ A creative developer passionate about design.
+
+<Br>
+
+## $ whoami
+
+```javascript
+const admin = {
+  system: {
+    hostname: "Mushfique Hussain",
+    network: "BRAC University",
+    location: "Dhaka, Bangladesh",
+    uptime: 3,
+  },
+
+  role: {
+    academic: "CSE Student",
+    professional: "Creative Developer",
+  },
+
+  activity: {
+    uploading: ["creative websites", "interactive experiences"],
+    downloading: ["full-stack", "DSA"],
+    pending: ["3D", "web interactions"],
+  },
+
+  config: ["creative", "pixel-perfect", "quiet"],
+
+  modules: ["photography", "coffee", "music"],
+
+  isAvailable: true,
+};
+```
+
+## $ cat progress.log
+
+```
+  ╭──────────────────────────────────────────╮
+  │  MUSHFIQUE / CURRENT_BUILD           ×   │
+  ├──────────────────────────────────────────┤
+  │                                          │
+  │  DESIGN      ███████████████░░░  80%     │
+  │  FRONTEND    █████████████░░░░░  70%     │
+  │  FULLSTACK   ████████░░░░░░░░░░  40%     │
+  │  JAVA / DSA  ██████████░░░░░░░░  50%     │
+  │                                          │
+  │  > compiling curiosity...                │
+  ╰──────────────────────────────────────────╯
+```
+
+## $ tech --used
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript&perline=6" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=6" />
+</p>
+
+<!-- **Backend** -->
+
+<!-- **Databases & Caching** -->
+
+#### Software & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,notion,git,github,vercel&perline=6" />
+</p>
+
+## $ ls --projects
+
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="./assets/project01.png" width="100%" alt="FitLog Project Preview">
+    </td>
+    <td width="70%" valign="top">
+
+# FITLOG
+
+*A modern workout discovery & planning app for exploring, saving, and organizing daily workouts.*
+
+<strong>**Stack**</strong><br>
+Next.js · TypeScript · Tailwind CSS · Context API · REST API
+
+<strong>**Focus**</strong><br>
+Workout discovery · Personal planning · Responsive UI
+
+[`Live Project`](https://fitlog-myshphew.vercel.app/)
+</td>
+</tr>
+</table>
+
+## $ ping --mushfique
+
+[`$ send email`](mailto:mushfique.ndc23@gmail.com) · [`$ open portfolio`](http://mushfique-hussain.me/) · [`$ connect linkedin`](https://www.linkedin.com/in/md-mushfique-hussain/) · [`$ connect instagram`](https://www.instagram.com/its_m.husayn/)
+
+<br>
+<br>
+
+<p align="left">
+  <img src="./assets/cta.svg" width="100%" alt="cta">
+</p>
 
 <div align="center">
-<!-- Name --> 
-<img src="https://readme-typing-svg.demolab.com?font=Square+Peg&weight=400&size=72&duration=2000&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=110&lines=Mushfique+Hussain" alt="Mushfique Hussain" />
-<!-- Intro --> 
-<img src="https://readme-typing-svg.demolab.com?font=Datatype&weight=500&size=20&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=700&height=35&lines=UI%2FUX+Designer+%E2%80%A2+Frontend+Developer+%E2%80%A2+CSE+Student" alt="Subtitle" />
-</div align="center">
-
-
-<table border="0">
-<tr>
-<!-- Left Column (Fixed) -->
-<td valign="bottom" align="center"> 
-    <img src="assets/bit-art.png" width="220" alt="Profile"> 
-</td>
-
-<!-- Right Column (Responsive) -->
-<td valign="top">
-
-<!-- Section 2 -->
-<div>
-<p align="center">
-  <img width="220" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3DE6AB">
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Datatype&weight=600&size=20&duration=3500&pause=1200&color=4DFFBE&center=true&vCenter=true&width=600&lines=Chasing+purpose+through+pixels+and+code...;Turning+ideas+into+meaningful+experiences...;Designing+Human-Centered+Experiences...;Learning+Something+New+Every+Day..."
-    alt="Typing SVG"
-  />
-</p>
-<p align="center">
-  <img width="220" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3DE6AB">
-</p>
-
-<!-- Section 3 -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Datatype&weight=500&size=16&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=300&height=35&lines=Tech+Stack"
-    alt="Tech Stack"
-  />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,java,git,github,vscode,figma&theme=dark" />
-</p>
+© 2026 Mushfique Hussain
 </div>
-
-</td>
-
-</tr>
-</table border="0">
