@@ -105,7 +105,21 @@ const admin = {
 
 <br>
 
-#### `BUILD_02 / ...`
+#### `BUILD_02 / CINEREEL`
+
+<p align="center">
+  <img src="./assets/project02banner.avif" width="100%" alt="CineReel Project Preview">
+</p>
+
+*A modern React app for discovering movies & TV shows.*
+
+**React · Javascript · Tailwind · React Router**
+
+[`$ npm run live`](https://cinereel-myshphew.vercel.app/) · [`$ git clone`](https://github.com/myshphew/cinereel)
+
+<br>
+
+#### `BUILD_03 / ...`
 
 *`project initializing...`*
 
